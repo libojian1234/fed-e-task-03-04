@@ -1,0 +1,17 @@
+{
+  "name": "lbj-form-item",
+  "version": "0.0.2",
+  "description": "",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "del": "rimraf dist"
+  },
+  "keywords": [],
+  "author": "libojian",
+  "license": "MIT",
+  "dependencies": {
+    "async-validator": "^3.5.1"
+  }
+}
